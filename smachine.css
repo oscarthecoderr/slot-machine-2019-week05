@@ -1,0 +1,45 @@
+.slots {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  gap: 50px;
+}
+
+.slot {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+}
+
+.bets {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid green;
+  gap: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid red
+}
+
+.entireGame {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+  border: 1px solid blue;
+  height: 100vh
+}
+
+button {
+  padding: 10px 40px;
+  border-radius: 10px;
+  box-shadow: 3px 3px red;
+}
