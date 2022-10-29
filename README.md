@@ -3,8 +3,9 @@
 ### Goal: Build a Simple Slot Machine
 
 Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+<img width="1751" alt="Screen Shot 2022-10-29 at 12 02 41 AM" src="https://user-images.githubusercontent.com/113155959/198813007-da38237a-1e62-45a7-a3ec-faf1ab86c293.png">
 
-### How to submit your code for review:
+
 
 - Fork and clone this repo
 - Create a new branch called answer
